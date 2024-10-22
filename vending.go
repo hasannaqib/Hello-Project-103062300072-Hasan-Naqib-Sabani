@@ -12,7 +12,7 @@ type Drink struct {
 	name  string
 	price int
 }
-
+//List Menu 
 var drinks = []Drink{
 	{"Coffee", 5000},
 	{"Tea", 3000},
